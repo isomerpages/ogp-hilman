@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: hello there!
+notification: hello there
 sections:
   - hero:
       title: Hero title
-      subtitle: Hero subtitle
+      subtitle: This is hero subtitle!
       background: /images/hero-banner.png
       key_highlights:
         - title: Highlight A
@@ -23,4 +23,9 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
