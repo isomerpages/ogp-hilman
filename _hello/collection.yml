@@ -2,4 +2,5 @@ collections:
   hello:
     output: true
     order:
+      - Content.md
       - hello 1 page.md
