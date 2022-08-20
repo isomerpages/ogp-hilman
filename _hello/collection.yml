@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Content.md
-      - hello.md
+      - test page.md
